@@ -78,8 +78,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/sahilsama/sushiman/issues).
-
-## 👥 Contact
-
-Your Name - [your@email.com](mailto:geusahil@email.com)
-Project Link: [https://github.com/yourusername/sushiman](https://github.com/sahilsama/sushiman)
